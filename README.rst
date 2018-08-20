@@ -47,6 +47,7 @@ Example
 The following example showcases
 
 .. code:: python
+
     import time
     from TimedDict.timeddict import TimedDict
 
@@ -99,6 +100,7 @@ The following example showcases
 This example will print:
 
 .. code:: python
+
     Raw data:
     {1534608053.6948583: 'value_1', 1534608054.6948583: 'value_2', 1534608055.6948583: {'values': {'value_4', 'value_3'}}}
 
