@@ -38,8 +38,7 @@ See more examples of how to pin version in `PEP-440 <https://www.python.org/dev/
 Documentation
 -------------
 
-For support, please refer to the `StackOverflow
-<https://stackoverflow.com/questions/tagged/pymysql>`_.
+For support, please refer to `StackOverflow <https://stackoverflow.com/>`_.
 
 Example
 -------
