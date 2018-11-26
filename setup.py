@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='TimedDict',
-    version='0.1.0',
+    version='0.2.4',
     packages=['TimedDict'],
     url='https://github.com/hjortlund/TimedDict',
     license='MIT',

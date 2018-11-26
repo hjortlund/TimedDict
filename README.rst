@@ -48,9 +48,9 @@ The following example showcases
 .. code:: python
 
     import time
-    from TimedDict.timeddict import TimedDict
+    from TimedDict import timeddict
 
-    events_window = TimedDict()
+    events_window = timeddict.TimedDict()
 
     now = time.time()
 
